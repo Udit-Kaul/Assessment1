@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="KBCTest">
+<test name = "kbc_test">
+	<classes>
+		<class name="tests.KBCTest"/>
+	</classes>
+</test>
+</suite>
